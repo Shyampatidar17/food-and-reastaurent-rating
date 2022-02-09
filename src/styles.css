@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  list-style: none;
+  display: inline;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  display: inline-block;
+  cursor: pointer;
+  margin: 1rem 0.3rem;
+  border-radius: 0.5rem;
+  background-color: azure;
+}
+li {
+  list-style: none;
+  border: 1px solid black;
+  width: 50%;
+  padding: 1rem;
+  margin: 0.3rem auto;
+  border-radius: 0.5rem;
+  background-color: azure;
+  margin-inline-start: ;
+}

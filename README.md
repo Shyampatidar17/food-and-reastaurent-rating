@@ -1,2 +1,2 @@
-# food-and-reastaurent-rating
+# practice-react-and-assignment
 Created with CodeSandbox
